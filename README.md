@@ -1,3 +1,4 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18484006&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
@@ -65,7 +66,8 @@ Project requirements are uncertain, frequent changes are expected, rapid feedbac
 Use Waterfall when:
 Requirements are well-defined, project scope is stable, strict deadlines are necessary, and detailed documentation is important. 
 
-## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?Agile is ideal for dynamic environments and continuous improvement initiatives, while Waterfall is preferable for projects with well-defined requirements and strict deadlines. Each methodology offers predictability but may struggle with accommodating changes late in the development cycle.10 Feb 2025
+## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each
+Agile is ideal for dynamic environments and continuous improvement initiatives, while Waterfall is preferable for projects with well-defined requirements and strict deadlines. Each methodology offers predictability but may struggle with accommodating changes late in the development cycle.10 Feb 2025
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?To ensure quality assurance throughout a software project, key methods include: defining clear quality standards, conducting thorough testing at every stage (unit, integration, system, regression), utilizing automated testing tools, performing code reviews, actively managing risks, gathering user feedback, and implementing continuous improvement practices; maintaining high standards is vital as it leads to a reliable, user-friendly product, reduces development costs by catching issues early, enhances customer satisfaction, and improves the overall reputation of the company. 
 Specific methods for quality assurance:
